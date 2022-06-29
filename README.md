@@ -71,7 +71,7 @@ Vue.js supports all browsers that are [ES5-compliant](https://kangax.github.io/c
 [vue-rx-package]: https://npmjs.com/package/vue-rx
 [vue-devtools-package]: https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
 
-## Documentation
+## Documentations
 
 To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
 
